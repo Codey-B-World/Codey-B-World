@@ -1,16 +1,53 @@
-## Hi there 👋
+# 🌍 Welcome to Codey-B World
 
-<!--
-**Codey-B-World/Codey-B-World** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the next generation of **Tech Environmentalists**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What is this?
+
+Codey-B World is a space where you can:
+
+- Learn how technology helps the planet
+- Explore Eco AI projects
+- Start building your own solutions
+
+---
+
+## 🤖 Start with the mission
+
+### What is Eco AI?
+Eco AI is using technology to:
+- Track pollution
+- Understand environmental patterns
+- Build smarter solutions for the future
+
+---
+
+## 🚀 Get Started
+
+👉 Beginner Challenge:
+Build something that helps your environment.
+
+Ideas:
+- Track air quality
+- Build a recycling tracker
+- Create a simple data dashboard
+
+---
+
+## 📘 The Story Behind This
+
+Inspired by:
+
+**Codey-B: The Henry Experiment**
+
+---
+
+## 🌱 Join the Tech Environmentalists
+
+Learn. Build. Help the planet.
+
+---
+
+🔗 Visit: https://codey-b.com
